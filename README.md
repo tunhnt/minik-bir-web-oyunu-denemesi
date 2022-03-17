@@ -1,5 +1,5 @@
 # minik-bir-web-oyunu-denemesi
-oynamak için; https://tunhnt.github.io/
+oynamak için; https://tunhnt.github.io/minik-bir-web-oyunu-denemesi/
 
 
 ![ss1](https://user-images.githubusercontent.com/43764640/158786877-36795bb9-8dcd-45b4-8139-28887c56f15f.png)
